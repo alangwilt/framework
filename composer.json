@@ -1,0 +1,17 @@
+{
+    "name": "alan/framework",
+    "description": "Framework for reinventing wheels",
+    "type": "project",
+    "require": {
+        "psr/log": "^1.0",
+        "psr/http-message": "^1.0",
+        "psr/container": "^1.0",
+        "psr/link": "^1.0"
+    },
+    "authors": [
+        {
+            "name": "Alan Gwilt",
+            "email": "algwilt@gmail.com"
+        }
+    ]
+}
