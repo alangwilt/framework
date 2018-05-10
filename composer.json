@@ -13,5 +13,8 @@
             "name": "Alan Gwilt",
             "email": "algwilt@gmail.com"
         }
-    ]
+    ],
+    "require-dev": {
+        "phpspec/phpspec": "^4.3"
+    }
 }
