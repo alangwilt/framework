@@ -17,5 +17,13 @@
     "require-dev": {
         "phpspec/phpspec": "^4.3",
         "squizlabs/php_codesniffer": "^3.2"
+    },
+    "autoload": {
+        "psr-4": {
+            "Alan\\": "src/"
+        }
+    },
+    "config": {
+        "optimize-autoloader": true
     }
 }
